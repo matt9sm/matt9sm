@@ -23,3 +23,7 @@ Check out my projects to see what I've been wokring on, and feel free to reach o
 <img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
 <img align="left" alt="Node" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+<img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/prisma-icon-423x512-isxs6996.png" />
+<img align="left" alt="Liquid" width="30px" style="padding-right:10px;" src="https://assets-global.website-files.com/64be309a0c8ae7454454fcef/653932043d90a3fa696fd68a_liquid-logo-text.png" />
