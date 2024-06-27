@@ -4,7 +4,7 @@
 
 Frontend developer with a passion for building engaging user experiences. I am obsessed with turning ideas into reality with clean, efficient code and eye-catching design. Whether it's creating responsive websites, optimizing performance, or diving into the latest frontend tech, I'm all about delivering top-tier solutions.
 
-Check out my projects to see what I've been wokring on, and feel free to reach out if you want to collaborate or have any inquiries. Let's create something awesome together!
+Check out my projects to see what I've been working on, and feel free to reach out if you want to collaborate or have any inquiries. Let's create something awesome together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-doe/)
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jonathandoe.com/)
